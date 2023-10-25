@@ -42,4 +42,4 @@ sale = soup.find_all("p", class_="product-card__tip product-card__tip--sale")
 for item in sale:
         print(item.text)
 
-#test
+# test2
